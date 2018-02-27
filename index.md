@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Use pinyin in Ubuntu](2017-05-30-use-pinyin-in-ubuntu).
 
-[Link to another page](another-page).
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 

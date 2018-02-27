@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Use pinyin in Ubuntu"
 date:   2017-05-31 22:32:05 +0800
 categories: jekyll update
@@ -13,3 +13,5 @@ categories: jekyll update
 6. Click the keyboard in the top right corner
 7. Select Google PinYin from Input Method if it exists
 8. Otherwise, enter Input Method Configuration and press ``+ to add a new language
+
+[back](./)
