@@ -1,5 +1,19 @@
 title: Asphalt
-description: Asphalt contains what you want to know about & from Jones
+description: Asphalt contains what you want to know about & from Jones (Zhen Wang).
 show_downloads: true
+
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://joneswong.github.io" # change this to the base hostname & protocol for your site
+
 google_analytics:
-theme: jekyll-theme-midnight
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: # leave it empty
+
+# social
+author: "Jones (Zhen Wang)"
+image: /thumbnail-jumbo.png
+
