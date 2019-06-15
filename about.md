@@ -26,19 +26,23 @@ Microsoft Research Asia (MSRA), Beijing, China
     - Fact extraction from Web tables (demo)
     - Short text representation (product)
 
-### Publication
+### Publications
 
-- Zhong Huaping, Jianwen Zhang, **Zhen Wang**, Hai Wan and Chen Zheng. *Aligning Knowledge and Text Embeddings by Entity Descriptions.* In Proceedings of EMNLP 2015.
-- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph and Text Jointly Embedding.* In Proceedings of EMNLP 2014.
-- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph Embedding by Translating on Hyperplanes.* In Proceedings of AAAI 2014.
+- Fei Xiao, **Zhen Wang**, Haikuan Huang, Jun Huang, Xi Chen, Hongbo Deng, Minghui Qiu. *Effective Medical Archives Processing Using Knowledge Graphs.* SIGIR 2019 Demo.
+- Zehong Hu, **Zhen Wang**, Zhao Li, Shichang Hu, Shasha Ruan, Jie Zhang. *Fraud Regulating Policy for E-Commerce via Constrained Contextual Bandits.* AAMAS 2019 Full Paper.
+- **Zhen Wang**, Xu Hu, Zehong Hu, Minghui Qiu, Jun Huang. Chapter 5 of *Artificial Intelligence for Prosthetics-challenge solutions.* NurIPS 2018 RL Challenge Tech Report.
+- Zhong Huaping, Jianwen Zhang, **Zhen Wang**, Hai Wan, Chen Zheng. *Aligning Knowledge and Text Embeddings by Entity Descriptions.* EMNLP 2015 Short Paper.
+- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph and Text Jointly Embedding.* EMNLP 2014 Full Paper.
+- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph Embedding by Translating on Hyperplanes.* AAAI 2014 Full Paper.
 
-### AWARDS & SCHOLARSHIPS
+### Awards & Scholarships
 
 - National Scholarship, Sep 2014
 - Silver Medal in ACM/ICPC Asia Regional Contest, Oct 2011
 - National Scholarship, Sep 2009
+- NeurIPS RL Challenge 5/427, Nov 2018
 
-### WORKING EXPERIENCE
+### Working Experience
 Alibaba Group, Hangzhou, Zhejiang, China
 
 - Senior Algorithm Engineer, Large Scale Learning-Innovative Algorithm Division, July 2017 - present
@@ -46,10 +50,12 @@ Alibaba Group, Hangzhou, Zhejiang, China
     - Chinese named entity recognition
     - Double 11 bundle recommendation business
     - A3gent (deep reinforcement learning package) development
-    - Ray (distributed computing engine) contribution
+    - Ray (distributed computing engine) contributor and committer
+    - Flow control by constrained contextual bandit
+    - Interactive shopping assistant by hierarchical reinforcement learning
 
-### SKILLS
+### Skills
 
-- Programming languages: C, CPP, CSharp, Python
-- Machine leanring libraries: TensorFlow, Ray
+- Programming languages: C, CPP, Python
+- Machine leanring libraries: TensorFlow, PyTorch
 - Foreign language: English (CET-6 certification)
