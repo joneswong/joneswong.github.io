@@ -26,6 +26,10 @@ Microsoft Research Asia (MSRA), Beijing, China
     - Fact extraction from Web tables (demo)
     - Short text representation (product)
 
+Alibaba group and Tsinghua University joint post-doc, Nov 2018 - present
+
+- Reinforcement learning in E-commerce scenarios (ongoing)
+
 ### Publications
 
 - Fei Xiao, **Zhen Wang**, Haikuan Huang, Jun Huang, Xi Chen, Hongbo Deng, Minghui Qiu. *Effective Medical Archives Processing Using Knowledge Graphs.* SIGIR 2019 Demo.
@@ -45,14 +49,19 @@ Microsoft Research Asia (MSRA), Beijing, China
 ### Working Experience
 Alibaba Group, Hangzhou, Zhejiang, China
 
-- Senior Algorithm Engineer, Large Scale Learning-Innovative Algorithm Division, July 2017 - present
+- Senior Algorithm Engineer (P6), Large Scale Learning-Innovative Algorithm Division, July 2017 - present
     
     - Chinese named entity recognition
     - Double 11 bundle recommendation business
     - A3gent (deep reinforcement learning package) development
-    - Ray (distributed computing engine) contributor and committer
+    - Ray (distributed computing engine) contributor and *committer*
     - Flow control by constrained contextual bandit
     - Interactive shopping assistant by hierarchical reinforcement learning
+
+- Algorithm Expert (P7), Deep Learning Algorithm Division, July 2018 - present
+
+    - NAS algorithms development including DARTS, ASAP, ProxylessNAS, etc.
+    - Auto feature engineering including AutoCross and some RL-based search strategies.
 
 ### Skills
 
