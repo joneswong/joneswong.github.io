@@ -58,6 +58,7 @@ Alibaba Group, Hangzhou, Zhejiang, China
     - Flow control by constrained contextual bandit
     - Interactive shopping assistant by hierarchical reinforcement learning
 
+
 - Algorithm Expert (P7), Deep Learning Algorithm Division, July 2018 - present
 
     - NAS algorithms development including DARTS, ASAP, ProxylessNAS, etc.
