@@ -54,7 +54,7 @@ Alibaba Group, Hangzhou, Zhejiang, China
     - Chinese named entity recognition
     - Double 11 bundle recommendation business
     - A3gent (deep reinforcement learning package) development
-    - Ray (distributed computing engine) contributor and *committer*
+    - [Ray](https://github.com/ray-project/ray) contributor and *committer*
     - Flow control by constrained contextual bandit
     - Interactive shopping assistant by hierarchical reinforcement learning
 
@@ -63,6 +63,7 @@ Alibaba Group, Hangzhou, Zhejiang, China
 
     - NAS algorithms development including DARTS, ASAP, ProxylessNAS, etc.
     - Auto feature engineering including AutoCross and some RL-based search strategies.
+    - [EasyRL](http://github.com/alibaba/EasyRL) released!
 
 ### Skills
 

@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "recap PAC"
+date:   2020-02-09 17:24:02 -0700
+categories: stat
+---
+
+This article is my note on a gentle introduction to PAC.
+
+Domain $$\mathcal{X}$$, label domain $$\mathcal{Y}$$, true mapping $$f: \mathcal{X}\leftarrow\mathcal{Y}$$, training set $$S=\{(x_i, y_i)\},i=1,\ldots,m$$ where $$x_i \in \mathcal{X}$$, $$y_i = f(x_i)$$, and $$x_i$$ is sampled from distribution $$D$$ i.i.d.
+
+Learner has no idea about $$D$$ (as well $$f$$) but just observes from $$S$$, say an algorithm $$A$$ which is fed with $$S$$ and output a classifier/hypothesis/predictor $$h$$, denoted as $$h=A(S)$$.
+
+The goal is to minimize generalization error $$L_{D,f}(h)=E_D[h(x)!=f(x)]$$ but there is only $$S$$ available. Thus, a learner may search for a $$h\in H$$ (a hypothesis class) to minimize empirical risk (MER) $$L_S(h)=E_{x\in S}[h(x)!=f(x)]$$. And we denote such a learnt hypothesis by $$h_S$$.
+
+It is easy to construct a training set $$S$$ where the MER learner achieves  $$L_S(h_S)=0$$ but results in a bad generalization risk. This phenomenon is called overfitting.
+
+Under which condition(s), can we avoid overfitting? It is natural to consider a finite set of hypotheses. Actually, this avoid overfitting if given a large enough training set.
+
+To prove this, let us first assume the learning algorithm is satisfactory (consistent with $$S$$), say that $$\forall S, \min_{h\in H} L_S(h) = 0$$.
+Our interests lie in the probability that such a MER learns a bad $$h_S$$, i.e., $$L_{D,f}(h_S)\geq\text{a given }\epsilon$$.
+
+
+Denote bad hypotheses as $$H_B=\{h\in H\text{s.t. }L_{D,f}(h)\geq\epsilon\}$$, the question becomes the probability of sampled an $$S$$ so that $$\exists h\in H_B, L_S(h_S)=0$$.
+
+As $$\forall h\in H_B, L_{f,D}(h)\geq\epsilon$$, for any $$h\in H_B$$, the probability of sampled an instance from $$D$$ that satisfies $$h(x)=f(x)$$ is less or equal to $$1-\epsilon$$ and thus $$\leq e^{-\epsilon}$$.
+
+For each $$h\in H_B$$, the probability of sampled such an $$S$$ is less or equal to $$e^{-m\epsilon}$$.
+
+As probability theory states that $$P(A)+P(B)\geq P(A\cup B)$$, the interested probability is less or equal to $$\sum_{h\in H_B}e^{-m\epsilon}=\|H_B\|e^{-m\epsilon}\leq\|H\|e^{-m\epsilon}$$.
+
+The theorem says that, given a finite hypothesis class $$H$$, if we i.i.d. sample $$m$$ instances from $$D$$ and use MER scheme and some algorithm $$A$$ to learn a consistent $$h_S$$ from $$H$$, the probability that $$L_{D,f}(h_S)\geq\epsilon$$ is upper bounded by $$\|H\|e^{-m\epsilon}$$.
+
+A natural corollary is that: if we want to ensure the fraction of such bad $$S\in D^m$$ to be $$\leq\delta$$, i.e., $$\|H\|e^{-m\epsilon}\leq\delta$$, the cardinality $$\|S\|=m$$ is required to be $$\geq\frac{\log(\|H\|/\delta)}{\epsilon}$$.
+
+This is probably (i.e., with fraction $$1-\delta$$) approximately (i.e., making correct prediction with $$1-\epsilon$$) correct (PAC).
