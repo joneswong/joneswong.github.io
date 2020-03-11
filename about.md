@@ -32,7 +32,7 @@ Alibaba group and Tsinghua University joint post-doc, Nov 2018 - present
 
 ### Publications
 
-- Fei Xiao, **Zhen Wang**, Haikuan Huang, Jun Huang, Xi Chen, Hongbo Deng, Minghui Qiu. *Effective Medical Archives Processing Using Knowledge Graphs.* SIGIR 2019 Demo.
+- Fei Xiao, **Zhen Wang**, Haikuan Huang, Jun Huang, Xi Chen, Hongbo Deng, Minghui Qiu. *AliISA: Creating an Interactive Search Experience in E-commerce Platforms* SIGIR 2019 Demo.
 - Zehong Hu, **Zhen Wang**, Zhao Li, Shichang Hu, Shasha Ruan, Jie Zhang. *Fraud Regulating Policy for E-Commerce via Constrained Contextual Bandits.* AAMAS 2019 Full Paper.
 - **Zhen Wang**, Xu Hu, Zehong Hu, Minghui Qiu, Jun Huang. Chapter 5 of *Artificial Intelligence for Prosthetics-challenge solutions.* NurIPS 2018 RL Challenge Tech Report.
 - Zhong Huaping, Jianwen Zhang, **Zhen Wang**, Hai Wan, Chen Zheng. *Aligning Knowledge and Text Embeddings by Entity Descriptions.* EMNLP 2015 Short Paper.
