@@ -42,7 +42,8 @@ Alibaba group and Tsinghua University joint post-doc, Nov 2018 - present
 
 ### Awards & Scholarships
 
-- NeurIPS RL Challenge 5/427, Nov 2018
+- KDD Cup, AutoML Track, 4/149, May 2020 ([our solution](https://github.com/joneswong/AutoGraph))
+- NeurIPS RL Challenge 5/427, Nov 2018 ([our solution](https://github.com/joneswong/rl_stadium))
 - National Scholarship, Sep 2014
 - Silver Medal in ACM/ICPC Asia Regional Contest, Oct 2011
 - National Scholarship, Sep 2009
