@@ -41,6 +41,7 @@ Alibaba group and Tsinghua University joint post-doc, Nov 2018 - present
 - Zhong Huaping, Jianwen Zhang, **Zhen Wang**, Hai Wan, Chen Zheng. *Aligning Knowledge and Text Embeddings by Entity Descriptions.* EMNLP 2015 Short Paper.
 - **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph and Text Jointly Embedding.* EMNLP 2014 Full Paper.
 - **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph Embedding by Translating on Hyperplanes.* AAAI 2014 Full Paper.
+
 (<sup>\*</sup>Equal contribution.)
 
 ### Awards & Scholarships
