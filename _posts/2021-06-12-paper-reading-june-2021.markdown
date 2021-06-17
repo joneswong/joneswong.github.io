@@ -26,9 +26,9 @@ Key notations: there are $$C$$ classes, each of which has same number of trainin
 
 Observations: during the TPT, there is a pervasive inductive bias called Neural Collapse which consists of:
 - (NC1): Variability Collapse: $$\Sigma_W\rightarrow 0$$, i.e., activations of each class collapse into the same point.
-- (NC2): Convergence to Simplex ETF: $$|\|\mu_c - \mu_G \|_2 - \|\mu_{c'} - \mu_G \|_2 |\rightarrow 0,\forall c, c'$$, i.e., equal length; $$<\tilde{\mu_c}, \tilde{\mu_{c'}}>\rightarrow \frac{C}{C-1}\delta_{c=c'} - \frac{1}{C-1}$$, i.e., equal angle between any pair of class-mean, where $$\tilde{\mu}$$ is the $$\mu$$ normalized into a unit vector.
+- (NC2): Convergence to Simplex ETF: $$ | \|\mu_c - \mu_G \|_2 - \|\mu_{c'} - \mu_G \|_2 | \rightarrow 0,\forall c, c'$$, i.e., equal length; $$<\tilde{\mu_c}, \tilde{\mu_{c'}}>\rightarrow \frac{C}{C-1}\delta_{c=c'} - \frac{1}{C-1}$$, i.e., equal angle between any pair of class-mean, where $$\tilde{\mu}$$ is the $$\mu$$ normalized into a unit vector.
 - (NC3): Convergence to self-duality: $$\|\frac{W^{T}}{\|W\|_F} - \frac{\dot{M}}{\|\dot{M}\|_F} \|_{F} \rightarrow 0$$, i.e., each $$\mu_c$$ and $$w_c$$ lie in the same direction and differ by only a scaling factor, where $$\dot{M}=[\mu_1-\mu_G,\ldots,\mu_C-\mu_G]$$.
-- (NC4): Simplification to neraest class classification (NCC): comparing $$h$$ with $$\w_c,c=1,\ldots,C$$ is equivalent to comparing with $$\mu_c,c=1,\ldots,C$$.
+- (NC4): Simplification to neraest class classification (NCC): comparing $$h$$ with $$w_c,c=1,\ldots,C$$ is equivalent to comparing with $$\mu_c,c=1,\ldots,C$$.
 
 These are inspired by empirical observatioins presented in the Fig. 2-7.
 
