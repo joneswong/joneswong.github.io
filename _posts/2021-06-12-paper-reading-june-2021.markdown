@@ -13,3 +13,25 @@ Background: each instance $$x$$ is associated with a label $$y$$ and, in additio
 Observations: in the over-parameterization regime, although the model can achieve zero training error, its worst group error becomes worse. The model uses the patterns that cannot generalize well to correctly classify the training instances of the minority group. This paper studied the reason behind such a behavior.
 
 Points: (To be studied) 1. properties of dataset that make this trend. 2. inductive bias towards memorizing the fewer points.
+
+## On "Learning to Pre-train Graph Neural Networks"
+Background: the dataset and the loss function considered in pre-train and fine-tune steps are different. The authors aim at fill this gap.
+
+Idea: instead of directly minimizing the loss of pre-train task, this paper utilizes MAML to make the pre-trained GNN model useful for further adaptation. Specifically, in the pre-train step, they sample a support and a query set (where each node pair corresponds to an instance) from each graph to construct a task.
+
+## On "Prevalence of Neural Collapse during the terminal phase of deep learning training"
+Background: when we train a DNN for classification tasks, it is conventional to continue the training course, even though the training error has reached zero (i.e., 0-1 loss). This is named Terminal Phase of Training (TPT).
+
+Key notations: there are $$C$$ classes, each of which has same number of training instances. The last activation (i.e., what is fed into the output layer) of the $$i$$-th instance of class $$c$$ is denoted as $$\mathbf{h}_{i,c}$$. The global-mean and class-mean is defined by averaging the corresponding activations and denoted by $$\mu_{G}$$ and $$\mu_c,c=1,\ldots,C$$ respectively. Furthermore, the total covariance, between-class covariance, and within-class covariance are defined accordingly and denoted by $$\Sigma_T$$, $$\Sigma_B$$, and $$\Sigma_W$$ respectively. The output layer (i.e., the classifier) is parameterized by $$W$$ where the $$c$$-th row is denoted by $$w_c$$.
+
+Observations: during the TPT, there is a pervasive inductive bias called Neural Collapse which consists of:
+- (NC1): Variability Collapse: $$\Sigma_W\rightarrow 0$$, i.e., activations of each class collapse into the same point.
+- (NC2): Convergence to Simplex ETF: $$|\|\mu_c - \mu_G \|_2 - \|\mu_{c'} - \mu_G \|_2 |\rightarrow 0,\forall c, c'$$, i.e., equal length; $$<\tilde{\mu_c}, \tilde{\mu_{c'}}>\rightarrow \frac{C}{C-1}\delta_{c=c'} - \frac{1}{C-1}$$, i.e., equal angle between any pair of class-mean, where $$\tilde{\mu}$$ is the $$\mu$$ normalized into a unit vector.
+- (NC3): Convergence to self-duality: $$\|\frac{W^{T}}{\|W\|_F} - \frac{\dot{M}}{\|\dot{M}\|_F} \|_{F} \rightarrow 0$$, i.e., each $$\mu_c$$ and $$w_c$$ lie in the same direction and differ by only a scaling factor, where $$\dot{M}=[\mu_1-\mu_G,\ldots,\mu_C-\mu_G]$$.
+- (NC4): Simplification to neraest class classification (NCC): comparing $$h$$ with $$\w_c,c=1,\ldots,C$$ is equivalent to comparing with $$\mu_c,c=1,\ldots,C$$.
+
+These are inspired by empirical observatioins presented in the Fig. 2-7.
+
+Points: there is implicit inductive bias of architecture, SGD, and TPT that causes NC. With mean squared error or Cross-Entropy error, NC1-2 imply NC3-4.
+
+Comments: to me, the magic is that why DNN use all except for the last layer (i.e., the classifier) to achieve such a perfect feature engineering, that is, the activations of instances belonging to the same class collapse into one vector. Once NC1-2 are observed, as the implication shows, NC3-4 come naturally.
