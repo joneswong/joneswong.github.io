@@ -26,7 +26,7 @@ Key notations: there are $$C$$ classes, each of which has same number of trainin
 
 Observations: during the TPT, there is a pervasive inductive bias called Neural Collapse which consists of:
 - (NC1): Variability Collapse: $$\Sigma_W\rightarrow 0$$, i.e., activations of each class collapse into the same point.
-- (NC2): Convergence to Simplex ETF: $$ | \|\mu_c - \mu_G \|_2 - \|\mu_{c'} - \mu_G \|_2 | \rightarrow 0,\forall c, c'$$, i.e., equal length; $$<\tilde{\mu_c}, \tilde{\mu_{c'}}>\rightarrow \frac{C}{C-1}\delta_{c=c'} - \frac{1}{C-1}$$, i.e., equal angle between any pair of class-mean, where $$\tilde{\mu}$$ is the $$\mu$$ normalized into a unit vector.
+- (NC2): Convergence to Simplex ETF: $$ \lvert \|\mu_c - \mu_G \|_2 - \|\mu_{c'} - \mu_G \|_2 \rvert \rightarrow 0,\forall c, c'$$, i.e., equal length; $$<\tilde{\mu_c}, \tilde{\mu_{c'}}>\rightarrow \frac{C}{C-1}\delta_{c=c'} - \frac{1}{C-1}$$, i.e., equal angle between any pair of class-mean, where $$\tilde{\mu}$$ is the $$\mu$$ normalized into a unit vector.
 - (NC3): Convergence to self-duality: $$\|\frac{W^{T}}{\|W\|_F} - \frac{\dot{M}}{\|\dot{M}\|_F} \|_{F} \rightarrow 0$$, i.e., each $$\mu_c$$ and $$w_c$$ lie in the same direction and differ by only a scaling factor, where $$\dot{M}=[\mu_1-\mu_G,\ldots,\mu_C-\mu_G]$$.
 - (NC4): Simplification to neraest class classification (NCC): comparing $$h$$ with $$w_c,c=1,\ldots,C$$ is equivalent to comparing with $$\mu_c,c=1,\ldots,C$$.
 
@@ -35,3 +35,24 @@ These are inspired by empirical observatioins presented in the Fig. 2-7.
 Points: there is implicit inductive bias of architecture, SGD, and TPT that causes NC. With mean squared error or Cross-Entropy error, NC1-2 imply NC3-4.
 
 Comments: to me, the magic is that why DNN use all except for the last layer (i.e., the classifier) to achieve such a perfect feature engineering, that is, the activations of instances belonging to the same class collapse into one vector. Once NC1-2 are observed, as the implication shows, NC3-4 come naturally.
+
+## On "STRATEGIES FOR PRE-TRAINING GRAPH NEURAL NETWORKS"
+Background: how to copy the success of pre-training for GNN like that of NLP and CV models.
+
+Idea: pre-training of GNN should rely on both node-level and graph-level tasks, so that the GNNs capture both local and global patterns.
+
+Methods: at node-level, there are two kinds of tasks:
+- context prediction
+- attribute masking
+
+They define context of a node $$v\in G$$ as the subgraph containing nodes away from $$v$$ by $$[r_1, r_2], r_1 < K, r_2 > K$$ hops, where $$K$$ is the number of layers of the GNN to be pre-trained. Then a auxiliary context GNN is applied to encode the nodes in the context. The average of all the node embeddings corresponding to nodes that are belong to the overlapping of the context and the $$K$$-hop neighborhood of $$v$$ is used to represent the context of $$v$$. The context prediction task is a binary classification task of whether a particular neighborhood and a particular context graph belong to the same node. They use negative sampling to guide the training of considered GNN as well as the context GNN (see Eq. 3.1).
+For the attribute masking task, a certain attribute in the input node features, e.g., atom type, is replaced by a pre-defined specific masking symbol, and a linear classifier is fed with the node embedding to predict the masked attribute.
+At graph-level, they pre-train the GNN with multiple graph property prediction tasks. The authors conjecture that predicting the similarity between graphs is also a good task, but the quadratic complexity and the lack of a general similarity forbid this idea.
+The whole pipeline proceeds in the order:
+1. pre-train by node-level tasks and attain the GNN;
+2. pre-train the GNN with multiple graph-level tasks;
+3. fine-tune the GNN on a specific downstream task.
+
+Observations:
+- Using expressive GNN model is crucial to fully utilize pre-training
+- If we only use a bunch of graph-level tasks for pre-training, some of them may be unrelated to the downstream task of interest and thus cause negative transfer. The proposed two-level, from-local-to-global pre-train work better.
