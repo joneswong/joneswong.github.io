@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My Jekyll Cheatsheet!"
-date:   2018-07-15 02:24:02 -0700
-categories: jekyll update
+title:  "My Pandas Cheatsheet!"
+date:   2021-07-02 08:24:02 -0700
+categories: tools
 ---
 For the ease of extracting and analyzing our experimental results, some basic operations upon pandas dataframe are recorded here. We assume a dataframe where each row corresponds to one kind of configuration, and each column corresponds to either one dimension of hyper-parameter or one kind of metrics.
 
