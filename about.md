@@ -32,6 +32,8 @@ Alibaba group and Tsinghua University joint post-doc, Nov 2018 - present
 
 ### Publications
 
+- Shaoyun Shi, Yuexiang Xie, **Zhen Wang**, Bolin Ding, Yaliang Li, Min Zhang. *Explainable Neural Rule Learning.* WWW 2022 Full Paper.
+- Yiqing Xie, **Zhen Wang**, Carl Yang, Yaliang Li, Bolin Ding, Hongbo Deng, Jiawei Han. *KoMen: Domain Knowledge Guided Interaction Recommendation for Emerging Scenarios.* WWW 2022 Full Paper.
 - Yaliang Li, **Zhen Wang**, Yuexiang Xie, Bolin Ding, Ce Zhang, Kai Zeng, Rong Zhu. *AutoML: From Methodology to Application.* CIKM 2021 Tutorial ([website](https://joneswong.github.io/CIKM21AutoMLTutorial/)).
 - Yaliang Li, **Zhen Wang**, Yuexiang Xie, Bolin Ding, Ce Zhang. *AutoML: A Perspective where Industry Meets Academy.* KDD 2021 Tutorial ([website](https://joneswong.github.io/KDD21AutoMLTutorial/)).
 - Yuexiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. *FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data.* KDD 2021 Full Paper.
