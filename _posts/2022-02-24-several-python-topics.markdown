@@ -45,5 +45,3 @@ class Logger(object):
         return cls._logger
 ~~~
 {: .language-python}
-
-## 
