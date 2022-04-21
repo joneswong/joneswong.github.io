@@ -5,8 +5,8 @@ date:   2022-04-18 20:24:02 -0700
 categories: Python HPO
 ---
 
-Let's understand this package by going through the provided ![example](https://automl.github.io/HpBandSter/build/html/auto_examples/example_1_local_sequential.html).
-For simplicity, we begin with ![random search optimizer](https://automl.github.io/HpBandSter/build/html/optimizers/randomsearch.html) rather than the BOHB employed in this example.
+Let's understand this package by going through the provided [example](https://automl.github.io/HpBandSter/build/html/auto_examples/example_1_local_sequential.html).
+For simplicity, we begin with [random search optimizer](https://automl.github.io/HpBandSter/build/html/optimizers/randomsearch.html) rather than the BOHB employed in this example.
 
 ## Preliminary
 
@@ -106,7 +106,7 @@ def run(self, n_iterations=1, min_n_workers=1, iteration_kwargs = {},):
 ```
 
 `wait_for_workers()` blocks the execution until there is enough free workers, where the `self.thread_cond.wait(1)` will be notified by the `self.thread_cond.notify()` in `job_callback()`.
-`self.result_logger` is used to make live logging (more details can be found ![here](https://automl.github.io/HpBandSter/build/html/advanced_examples.html#live-logging)).
+`self.result_logger` is used to make live logging (more details can be found [here](https://automl.github.io/HpBandSter/build/html/advanced_examples.html#live-logging)).
 `self.time_ref` is set to be `None` in the constructor of `Master` and thus becomes the current moment here.
 `self.thread_cond` is an object of python's `threading.Condition`, which is used for coordinating the threads.
 At the first time we enter the `while` loop, the `_queue_wait()` method will not block the execution, as `job_queue_sizes` has been changed from `(-1, 0)` to `(0, 1)` by `adjust_queue_size()` called by `discover_workers()`, where there is one worker in this example.
