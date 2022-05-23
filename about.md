@@ -32,9 +32,9 @@ Alibaba group and Tsinghua University joint post-doc, Nov 2018 - present
 
 ### Publications
 
-- *Zhen Wang*, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning.* KDD 2022 Full Paper.
-- *Zhen Wang*, Yaliang Li, Zhewei Wei, Weirui Kuang, Bolin Ding. *Graph Neural Networks with Node-wise Architecture.* KDD 2022 Full Paper.
-- Dawei Gao, Yuexiang Xie, Zimu Zhou, *Zhen Wang*, Yaliang Li, Bolin Ding. *Finding Meta Winning Ticket to Train Your MAML.*, KDD 2022 Full Paper.
+- **Zhen Wang**, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning.* KDD 2022 Full Paper.
+- **Zhen Wang**, Yaliang Li, Zhewei Wei, Weirui Kuang, Bolin Ding. *Graph Neural Networks with Node-wise Architecture.* KDD 2022 Full Paper.
+- Dawei Gao, Yuexiang Xie, Zimu Zhou, **Zhen Wang**, Yaliang Li, Bolin Ding. *Finding Meta Winning Ticket to Train Your MAML.*, KDD 2022 Full Paper.
 - Yuexiang Xie, **Zhen Wang**, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. *iFlood: A Stable and Effective Regularizer.* ICLR 2022 Full Paper.
 - Shaoyun Shi, Yuexiang Xie, **Zhen Wang**, Bolin Ding, Yaliang Li, Min Zhang. *Explainable Neural Rule Learning.* WWW 2022 Full Paper.
 - Yiqing Xie, **Zhen Wang**, Carl Yang, Yaliang Li, Bolin Ding, Hongbo Deng, Jiawei Han. *KoMen: Domain Knowledge Guided Interaction Recommendation for Emerging Scenarios.* WWW 2022 Full Paper.
@@ -75,7 +75,7 @@ Alibaba Group, Hangzhou, Zhejiang, China
     - Chinese named entity recognition
     - Double 11 bundle recommendation business
     - A3gent (deep reinforcement learning package) development
-    - [Ray](https://github.com/ray-project/ray) contributor and *committer*
+    - [Ray](https://github.com/ray-project/ray) contributor and **committer**
     - Flow control by constrained contextual bandit
     - Interactive shopping assistant by hierarchical reinforcement learning
 
