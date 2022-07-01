@@ -4,33 +4,33 @@ title: About
 permalink: /about/
 ---
 ## Zhen Wang
-I am currently working for Alibaba Group and living in Hangzhou, a charming city known by the West Lake.
+I am currently a researcher working for DAMO Academy. During the years of my Ph.D. (as an intern at MSRA), I have pursued the goal of embedding everything (entity, word, sentence, paragraph, etc.). In my experience as an engineer for Alibaba Cloud, I have been lucky to work with people from RISELab who kindly acknowledge my contributions and let me become a committer of Ray. I have a broad interest in machine learning. At the moment, our team is focused on federated learning and working on platforms, benchmarks, and research problems that are related to it.
 
 ### Education
 Sun Yat-sen University, Guangzhou, Guangdong, China
 
-- Ph.D., Computer Application Technology, Sep 2012 - Jun 2017
+- Ph.D., Computer Applied Technology, Sep 2012 - Jun 2017
 - B.E., Software Engineering, Sep 2008 - Jun 2012
 
 ### Research Experience
 Microsoft Research Asia (MSRA), Beijing, China
 
-- Research Intern, Data Mining and Enterprise Intelligence Group, Feb 2016 – Apr 2017
+- Research Intern, Data Mining and Enterprise Intelligence Group, Mentor: Dr. Jun Yan and Dr. Wei-Ying Ma, Feb 2016 – Apr 2017
     - Data-driven metaphor learning (demo)
      
-- Research Intern, Machine Learning Group, Oct 2013 – Jan 2016
+- Research Intern, Machine Learning Group, Mentor: Dr. Jianwen Zhang and Dr. Zheng Chen, Oct 2013 – Jan 2016
     - Fact-based Q&A (demo)
     - Heterogenous data embedding (product)
     
-- Research Intern, Web Search and Mining Group, Oct 2011 – Jun 2012
+- Research Intern, Web Search and Mining Group, Mentor: Dr. Zhongyuan Wang and Dr. Haixun Wang, Oct 2011 – Jun 2012
     - Fact extraction from Web tables (demo)
     - Short text representation (product)
 
-Alibaba group and Tsinghua University joint post-doc, Nov 2018 - present
+Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou and Dr. Minlie Huang, Nov 2018 - present
 
 - Reinforcement learning in E-commerce scenarios (ongoing)
 
-### Publications
+### Publications ([google scholar](https://scholar.google.com/citations?user=e5CqTBMAAAAJ&hl=en))
 
 - **Zhen Wang**, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning.* KDD 2022 Full Paper.
 - **Zhen Wang**, Yaliang Li, Zhewei Wei, Weirui Kuang, Bolin Ding. *Graph Neural Networks with Node-wise Architecture.* KDD 2022 Full Paper.
@@ -63,24 +63,31 @@ Alibaba group and Tsinghua University joint post-doc, Nov 2018 - present
 ### Working Experience
 Alibaba Group, Hangzhou, Zhejiang, China
 
-- Algorithm Expert (P7), Deep Learning Algorithm Division, July 2018 - present
+- Algorithm Expert (P7), Data Analytics and Intelligence Lab, June 2020 - present
 
-    - NAS algorithms development including DARTS, ASAP, ProxylessNAS, etc.
-    - Auto feature engineering including AutoCross and some RL-based search strategies.
-    - [EasyRL](http://github.com/alibaba/EasyRL) released!
+    - [FederatedScope](https://github.com/alibaba/FederatedScope): a federated learning platform with an event-driven programming paradigm.
+    - FederatedScope-GNN: a federated graph learning package.
+    - FedHPO-B: a federated HPO benchmark suite.
 
 
-- Senior Algorithm Engineer (P6), Large Scale Learning-Innovative Algorithm Division, July 2017 - present
-    
-    - Chinese named entity recognition
-    - Double 11 bundle recommendation business
-    - A3gent (deep reinforcement learning package) development
-    - [Ray](https://github.com/ray-project/ray) contributor and **committer**
-    - Flow control by constrained contextual bandit
-    - Interactive shopping assistant by hierarchical reinforcement learning
+- Algorithm Expert (P7), Deep Learning Algorithm Division, July 2019 - May 2020
+
+    - Neural architecture search utilities: DARTS, ASAP, ProxylessNAS, etc.
+    - Auto feature engineering utilities: AutoCross and some RL-based search strategies
+    - [EasyRL](http://github.com/alibaba/EasyRL): TensorFlow-based RL package
+
+
+- Senior Algorithm Engineer (P6), Large Scale Learning-Innovative Algorithm Division, July 2017 - June 2019
+
+    - Double 11 bundle recommendation business: a model for CTR prediction
+    - A3gent: an internal deep reinforcement learning package
+    - [Ray](https://github.com/ray-project/ray): I contribute the implementations of several RL algorithms, e.g., DDPG, Rainbow, and MARWIL, to Ray RLLib and become a **committer**
+    - Fraud regularization and flow control: constrained contextual bandit
+    - Interactive shopping assistant: hierarchical reinforcement learning
+
 
 ### Skills
 
-- Programming languages: C, Python
+- Programming languages: Python
 - Machine leanring libraries: TensorFlow, PyTorch
 - Foreign language: English (CET-6 certification)
