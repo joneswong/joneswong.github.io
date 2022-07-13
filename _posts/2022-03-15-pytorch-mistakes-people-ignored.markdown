@@ -138,5 +138,5 @@ that leads to `id(param_x) == id(tensor_x)`; and is also different from  the so-
 param_x = copy.deepcopy(tensor_x)
 ```
 for general Python object, e.g., list. Specifically, deep copy (a list) means allocating another memory space to hold the same values as the right-value (i.e., the source list).
-In contrast, Tensor object has an attribute that records the memory address of stored values, and `copy_()` just assigns the address of right-value to that of the left-value.
-Thus, without the command `a = copy.deepcopy(a)`, the tensors in `a` have the same addresses as the parameters in `m`, since `a` is acquired by `state_dict()`. By copy these addresses, parameters of `m` and tensors in `a` point to the same memory space, making any changes in `a`'s entries observable from `m`'s entries.
+In contrast, Tensor object has an attribute that records the memory address of stored values, and `copy_()` just passes the addresses of left-value and right-value to CUDA API to copy the stored values.
+Thus, without the command `a = copy.deepcopy(a)`, the tensors in `a` have the same addresses as the parameters in `m`, since `a` is acquired by `state_dict()`. By `_copy()`, parameters of `m` and tensors in `a` point to the same memory space, making any changes in `a`'s entries observable from `m`'s entries.
