@@ -32,6 +32,8 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 ### Publications ([google scholar](https://scholar.google.com/citations?user=e5CqTBMAAAAJ&hl=en))
 
+- Jinjia Feng, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei, Hongteng Xu. *MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio.* CIKM 2022 Full Paper.
+- Yaliang Li, Bolin Ding, **Zhen Wang**, Yuexiang Xie, Dawei Gao, Liuyi Yao, Daoyuan Chen, Weirui Kuang, Hongzhu Shi, Jingren Zhou. *A Practical Introduction to Federated Learning.* KDD 2022 Tutorial ([website](https://joneswong.github.io/KDD22FLTutorial/))
 - **Zhen Wang**, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning.* KDD 2022 Full Paper.
 - **Zhen Wang**, Yaliang Li, Zhewei Wei, Weirui Kuang, Bolin Ding. *Graph Neural Networks with Node-wise Architecture.* KDD 2022 Full Paper.
 - Dawei Gao, Yuexiang Xie, Zimu Zhou, **Zhen Wang**, Yaliang Li, Bolin Ding. *Finding Meta Winning Ticket to Train Your MAML.*, KDD 2022 Full Paper.
