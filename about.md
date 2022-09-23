@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ## Zhen Wang
-I am currently a researcher working for DAMO Academy. During the years of my Ph.D. (as an intern at MSRA), I have pursued the goal of embedding everything (entity, word, sentence, paragraph, etc.). In my experience as an engineer for Alibaba Cloud, I have been lucky to work with people from RISELab who kindly acknowledge my contributions and let me become a committer of Ray. I have a broad interest in machine learning. At the moment, our team is focused on federated learning and working on platforms, benchmarks, and research problems that are related to it.
+I am currently a stuff of DAMO Academy. During the years of my Ph.D. (as an intern at MSRA), I have pursued the goal of embedding everything (entity, word, sentence, paragraph, etc.). In my experience as an engineer for Alibaba Cloud, I have been lucky to work with people from RISELab who kindly acknowledge my contributions and let me become a committer of Ray. I have a broad interest in machine learning. At the moment, our team is focused on federated learning and working on platforms, benchmarks, and research problems that are related to it.
 
 ### Education
 Sun Yat-sen University, Guangzhou, Guangdong, China
@@ -30,8 +30,10 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 - Reinforcement learning in E-commerce scenarios (ongoing)
 
+
 ### Publications ([google scholar](https://scholar.google.com/citations?user=e5CqTBMAAAAJ&hl=en))
 
+- Runlin Lei, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei. *EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks.* NeurIPS 2022 Full Paper.
 - Jinjia Feng, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei, Hongteng Xu. *MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio.* CIKM 2022 Full Paper.
 - Yaliang Li, Bolin Ding, **Zhen Wang**, Yuexiang Xie, Dawei Gao, Liuyi Yao, Daoyuan Chen, Weirui Kuang, Hongzhu Shi, Jingren Zhou. *A Practical Introduction to Federated Learning.* KDD 2022 Tutorial ([website](https://joneswong.github.io/KDD22FLTutorial/))
 - **Zhen Wang**, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning.* KDD 2022 Full Paper.
@@ -54,30 +56,34 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 (<sup>\*</sup>Equal contribution.)
 
+
 ### Awards & Scholarships
 
+- **KDD 2022 ADS Track Best Paper Award**, Aug 2022
 - KDD Cup, AutoML Track, 4/149, May 2020 ([our solution](https://github.com/joneswong/AutoGraph))
 - NeurIPS RL Challenge 5/427, Nov 2018 ([our solution](https://github.com/joneswong/rl_stadium))
 - National Scholarship, Sep 2014
 - Silver Medal in ACM/ICPC Asia Regional Contest, Oct 2011
 - National Scholarship, Sep 2009
 
+
 ### Working Experience
+
 Alibaba Group, Hangzhou, Zhejiang, China
 
-- Algorithm Expert (P7), Data Analytics and Intelligence Lab, June 2020 - present
+- Senior Algorithm Expert (P8), Data Analytics and Intelligence Lab, Sept 2020 - present
+
+- Algorithm Expert (P7), Data Analytics and Intelligence Lab, June 2020 - Aug 2022
 
     - [FederatedScope](https://github.com/alibaba/FederatedScope): a federated learning platform with an event-driven programming paradigm.
     - FederatedScope-GNN: a federated graph learning package.
-    - FedHPO-B: a federated HPO benchmark suite.
-
+    - [FedHPO-Bench](https://github.com/alibaba/FederatedScope/tree/master/benchmark/FedHPOB): a federated HPO benchmark suite.
 
 - Algorithm Expert (P7), Deep Learning Algorithm Division, July 2019 - May 2020
 
     - Neural architecture search utilities: DARTS, ASAP, ProxylessNAS, etc.
     - Auto feature engineering utilities: AutoCross and some RL-based search strategies
-    - [EasyRL](http://github.com/alibaba/EasyRL): TensorFlow-based RL package
-
+    - [EasyReinforcementLearning](https://github.com/alibaba/EasyReinforcementLearning): TensorFlow-based RL package
 
 - Senior Algorithm Engineer (P6), Large Scale Learning-Innovative Algorithm Division, July 2017 - June 2019
 
