@@ -38,21 +38,21 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 - Yaliang Li, Bolin Ding, **Zhen Wang**, Yuexiang Xie, Dawei Gao, Liuyi Yao, Daoyuan Chen, Weirui Kuang, Hongzhu Shi, Jingren Zhou. *A Practical Introduction to Federated Learning.* KDD 2022 Tutorial ([website](https://joneswong.github.io/KDD22FLTutorial/))
 - **Zhen Wang**, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning*. KDD 2022 Full Paper. **(ADS Track Best Paper Award)**. [pdf](https://dl.acm.org/doi/10.1145/3534678.3539112)
 - **Zhen Wang**, Yaliang Li, Zhewei Wei, Weirui Kuang, Bolin Ding. *Graph Neural Networks with Node-wise Architecture*. KDD 2022 Full Paper. [pdf](https://dl.acm.org/doi/10.1145/3534678.3539387)
-- Dawei Gao, Yuexiang Xie, Zimu Zhou, **Zhen Wang**, Yaliang Li, Bolin Ding. *Finding Meta Winning Ticket to Train Your MAML.*, KDD 2022 Full Paper.
-- Yuexiang Xie, **Zhen Wang**, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. *iFlood: A Stable and Effective Regularizer.* ICLR 2022 Full Paper.
-- Shaoyun Shi, Yuexiang Xie, **Zhen Wang**, Bolin Ding, Yaliang Li, Min Zhang. *Explainable Neural Rule Learning.* WWW 2022 Full Paper.
-- Yiqing Xie, **Zhen Wang**, Carl Yang, Yaliang Li, Bolin Ding, Hongbo Deng, Jiawei Han. *KoMen: Domain Knowledge Guided Interaction Recommendation for Emerging Scenarios.* WWW 2022 Full Paper.
+- Dawei Gao, Yuexiang Xie, Zimu Zhou, **Zhen Wang**, Yaliang Li, Bolin Ding. *Finding Meta Winning Ticket to Train Your MAML*. KDD 2022 Full Paper. [pdf](https://dl.acm.org/doi/10.1145/3534678.3539467)
+- Yuexiang Xie, **Zhen Wang**, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. *iFlood: A Stable and Effective Regularizer*. ICLR 2022 Full Paper. [pdf](https://openreview.net/forum?id=MsHnJPaBUZE)
+- Shaoyun Shi, Yuexiang Xie, **Zhen Wang**, Bolin Ding, Yaliang Li, Min Zhang. *Explainable Neural Rule Learning*. WWW 2022 Full Paper. [pdf](https://dl.acm.org/doi/abs/10.1145/3485447.3512023)
+- Yiqing Xie, **Zhen Wang**, Carl Yang, Yaliang Li, Bolin Ding, Hongbo Deng, Jiawei Han. *KoMen: Domain Knowledge Guided Interaction Recommendation for Emerging Scenarios*. WWW 2022 Full Paper. [pdf](https://dl.acm.org/doi/10.1145/3485447.3512177)
 - Yaliang Li, **Zhen Wang**, Yuexiang Xie, Bolin Ding, Ce Zhang, Kai Zeng, Rong Zhu. *AutoML: From Methodology to Application.* CIKM 2021 Tutorial ([website](https://joneswong.github.io/CIKM21AutoMLTutorial/)).
 - Yaliang Li, **Zhen Wang**, Yuexiang Xie, Bolin Ding, Ce Zhang. *AutoML: A Perspective where Industry Meets Academy.* KDD 2021 Tutorial ([website](https://joneswong.github.io/KDD21AutoMLTutorial/)).
 - Yuexiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. *FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data*. KDD 2021 Full Paper. [pdf](https://dl.acm.org/doi/10.1145/3447548.3467066)
-- Zhao Li, Junshuai Song, Zehong Hu, **Zhen Wang**, Jun Gao. *Constrained Dual-level Bandit for Personalized Impression Regulation in Online Ranking Systems.*, TKDD 2021.
-- Daoyuan Chen, Yaliang Li, Minghui Qiu, **Zhen Wang**, Bofang Li, Bolin Ding, Hongbo Deng, Jun Huang, Wei Lin, and Jingren Zhou. *AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search.* IJCAI 2020 Full Paper.
+- Zhao Li, Junshuai Song, Zehong Hu, **Zhen Wang**, Jun Gao. *Constrained Dual-level Bandit for Personalized Impression Regulation in Online Ranking Systems*. TKDD 2021. [pdf](https://dl.acm.org/doi/10.1145/3461340)
+- Daoyuan Chen, Yaliang Li, Minghui Qiu, **Zhen Wang**, Bofang Li, Bolin Ding, Hongbo Deng, Jun Huang, Wei Lin, and Jingren Zhou. *AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search*. IJCAI 2020 Full Paper. [pdf](https://dl.acm.org/doi/10.5555/3491440.3491781)
 - Fei Xiao, **Zhen Wang**, Haikuan Huang, Jun Huang, Xi Chen, Hongbo Deng, Minghui Qiu. *AliISA: Creating an Interactive Search Experience in E-commerce Platforms.* SIGIR 2019 Demo.
-- Zehong Hu, **Zhen Wang**, Zhao Li, Shichang Hu, Shasha Ruan, Jie Zhang. *Fraud Regulating Policy for E-Commerce via Constrained Contextual Bandits.* AAMAS 2019 Full Paper.
+- Zehong Hu, **Zhen Wang**, Zhao Li, Shichang Hu, Shasha Ruan, Jie Zhang. *Fraud Regulating Policy for E-Commerce via Constrained Contextual Bandits*. AAMAS 2019 Full Paper. [pdf](https://dl.acm.org/doi/10.5555/3306127.3331846)
 - **Zhen Wang**, Xu Hu, Zehong Hu, Minghui Qiu, Jun Huang. Chapter 5 of *Artificial Intelligence for Prosthetics-challenge solutions.* NurIPS 2018 RL Challenge Tech Report.
-- Huaping Zhong, Jianwen Zhang, **Zhen Wang**, Hai Wan, Zheng Chen. *Aligning Knowledge and Text Embeddings by Entity Descriptions.* EMNLP 2015 Short Paper.
-- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph and Text Jointly Embedding.* EMNLP 2014 Full Paper. [pdf](https://aclanthology.org/D14-1167/)
-- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph Embedding by Translating on Hyperplanes.* AAAI 2014 Full Paper. [pdf](https://dl.acm.org/doi/10.5555/2893873.2894046)
+- Huaping Zhong, Jianwen Zhang, **Zhen Wang**, Hai Wan, Zheng Chen. *Aligning Knowledge and Text Embeddings by Entity Descriptions*. EMNLP 2015 Short Paper. [pdf](https://aclanthology.org/D15-1031/)
+- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph and Text Jointly Embedding*. EMNLP 2014 Full Paper. [pdf](https://aclanthology.org/D14-1167/)
+- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph Embedding by Translating on Hyperplanes*. AAAI 2014 Full Paper. [pdf](https://dl.acm.org/doi/10.5555/2893873.2894046)
 
 (<sup>\*</sup>Equal contribution.)
 
@@ -71,7 +71,7 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 Alibaba Group, Hangzhou, Zhejiang, China
 
-- Senior Algorithm Expert (P8), Data Analytics and Intelligence Lab, Sept 2020 - present
+- Senior Algorithm Expert (P8), Data Analytics and Intelligence Lab, Sept 2022 - present
 
 - Algorithm Expert (P7), Data Analytics and Intelligence Lab, June 2020 - Aug 2022
 
