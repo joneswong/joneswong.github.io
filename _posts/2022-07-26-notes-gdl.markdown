@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Notes on the Course 'Geometric Deep Learning'"
+date:   2022-07-26 20:24:02 -0700
+categories: daily
+---
+
+## Basic Concepts
+
+"Hilbert Space Structure" in Lec3:
+
+> The space of signals is a vector space! (possibly infinite dimensional)
+
+where `vector space` is a set that is closed under finite vector addition and scalar multiplication.
+
+> The space of signals is a Hilbert space!
+
+where `Hilbert space` is a vector space with an inner product $<f, g>$ such that the norm defined by $|f|=\sqrt{<f,f>}$ turns the vector space into a complete metric space or an inner product space (depends on whether this norm is complete).
+
+"Fields of Geometric Features" in Lec3:
+
+> 

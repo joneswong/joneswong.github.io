@@ -33,6 +33,7 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 ### Publications ([google scholar](https://scholar.google.com/citations?user=e5CqTBMAAAAJ&hl=en))
 
+- Yuexiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope: A Flexible Federated Learning Platform for Heterogeneity.* VLDB 2023 Full Paper.
 - Runlin Lei, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei. *EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks.* NeurIPS 2022 Full Paper.
 - Jinjia Feng, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei, Hongteng Xu. *MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio.* CIKM 2022 Full Paper.
 - Yaliang Li, Bolin Ding, **Zhen Wang**, Yuexiang Xie, Dawei Gao, Liuyi Yao, Daoyuan Chen, Weirui Kuang, Hongzhu Shi, Jingren Zhou. *A Practical Introduction to Federated Learning.* KDD 2022 Tutorial ([website](https://joneswong.github.io/KDD22FLTutorial/))
