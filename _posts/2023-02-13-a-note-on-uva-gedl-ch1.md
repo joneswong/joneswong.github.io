@@ -1,9 +1,17 @@
 ---
 layout: post
-title:  "A Note on the Chapter1 of 'Group Equivariant Deep Learning'"
+title:  "A Note on Chap1 of 'Group Equivariant Deep Learning'"
 date:   2023-02-12 20:24:02 -0700
 categories: daily
 ---
+
+## Summary of Core-ideas
+
+Convolution --- Cross-correlation --- Template matching, i.e., inner product at different "positions"
+
+"at different positions" --- "between kernel transformed by different group elements and the input signal"
+
+CNN (positions mean different translation) --- R-CNN (positions mean different roto-translation)
 
 ## Concepts
 
@@ -47,7 +55,7 @@ We say $$\mathcal{L}$$ parameterized by $$g$$ is a roto-translation operator. Pa
 
 Other necessary definitions in this chapter include the *inner product and norm* of $$\mathbb{L}_{2}(X)$$.
 
-## Rationales
+## Interpretations
 
 *Is convolution and cross-correlation the same stuff?*
 
@@ -74,6 +82,6 @@ $$
 (k\star_{\text{SE(2)}}f)(x,\theta)=(\mathcal{L}_{g}k,f)_{\mathbb{L}_{2}(\Re^2)}=\int_{\Re^2}k(R_{\theta}^{-1}(\tilde{x}-x))f(\tilde{x})d\tilde{x}
 $$
 
-where the two functions (kernel $$k$$ and signal $$f$$) are transformed into a higher dimensional function (signal or say feature map) with input $$(x,\theta)$$.
+where the two functions (kernel $$k$$ and signal $$f$$) are transformed into a higher dimensional function (signal or say feature map) with input $$(x,\theta)$$. Here "SE" is short for special euclidean motion group.
 
 In this way, those two points regarded as CNN's power are further generalized, namely, from translation to roto-translation.

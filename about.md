@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ## Zhen Wang
-I am currently a stuff of DAMO Academy. During the years of my Ph.D. (as an intern at MSRA), I have pursued the goal of embedding everything (entity, word, sentence, paragraph, etc.). In my experience as an engineer for Alibaba Cloud, I have been lucky to work with people from RISELab who kindly acknowledge my contributions and let me become a committer of Ray. I have a broad interest in machine learning. At the moment, our team is focused on federated learning and working on platforms, benchmarks, and research problems that are related to it.
+I am currently a stuff of DAMO Academy. During the years of my Ph.D. (as a research intern at MSRA for more than three years), I have pursued the goal of embedding everything (entity, word, sentence, paragraph, etc.). In my experience as an engineer for Alibaba Cloud, I have been lucky to work with people from RISELab who kindly acknowledge my contributions and let me become a committer of Ray. I have a broad interest in machine learning. At the moment, our team focuses on federated learning and works on platforms, benchmarks, and research problems that are related to it.
 
 ### Education
 Sun Yat-sen University, Guangzhou, Guangdong, China
@@ -33,9 +33,9 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 ### Publications ([google scholar](https://scholar.google.com/citations?user=e5CqTBMAAAAJ&hl=en))
 
-- Yuexiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope: A Flexible Federated Learning Platform for Heterogeneity.* VLDB 2023 Full Paper.
-- Runlin Lei, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei. *EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks.* NeurIPS 2022 Full Paper.
-- Jinjia Feng, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei, Hongteng Xu. *MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio.* CIKM 2022 Full Paper.
+- Yuxiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope: A Flexible Federated Learning Platform     for Heterogeneity.* VLDB 2023 Full Paper. [pdf](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)
+- Runlin Lei, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei. *EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks.* NeurIPS 2022 Full Paper. [pdf](https://openreview.net/pdf?id=SPoiDLr3WE7)
+- Jinjia Feng, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei, Hongteng Xu. *MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio.* CIKM 2022 Full Paper. [pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557395)
 - Yaliang Li, Bolin Ding, **Zhen Wang**, Yuexiang Xie, Dawei Gao, Liuyi Yao, Daoyuan Chen, Weirui Kuang, Hongzhu Shi, Jingren Zhou. *A Practical Introduction to Federated Learning.* KDD 2022 Tutorial ([website](https://joneswong.github.io/KDD22FLTutorial/))
 - **Zhen Wang**, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning*. KDD 2022 Full Paper. **(ADS Track Best Paper Award)**. [pdf](https://dl.acm.org/doi/10.1145/3534678.3539112)
 - **Zhen Wang**, Yaliang Li, Zhewei Wei, Weirui Kuang, Bolin Ding. *Graph Neural Networks with Node-wise Architecture*. KDD 2022 Full Paper. [pdf](https://dl.acm.org/doi/10.1145/3534678.3539387)
