@@ -79,7 +79,7 @@ v_{i}^{l+1}=\phi_{v}(h_{i}^{l})v_{i}^{\text{init}}+C\sum_{j\neq i}(x_{i}^{l}-x_{
 x_{i}^{l+1}=x_{i}^{l}+v_{i}^{l+1}
 $$
 
-Note that $v$ stands for velocity, and thus when we say $$x_{i}^{l+1}$$, in this case, is still equivariant to $$E(n)$$, we mean that previoius $$x$$ becomes $$Qx+g$$ and initial $v$ becomes $Qv$ rather than $$Qv+g$$.
+Note that $v$ stands for velocity, and thus when we say $$x_{i}^{l+1}$$, in this case, is still equivariant to $$E(n)$$, we mean that previoius $$x$$ becomes $$Qx+g$$ and initial $$v$$ becomes $$Qv$$ rather than $$Qv+g$$.
 
 **Graph Autoencoder.** There is a symmetry problem, that is, when there is no or identical attributes, i.e., same $$h_{i}^{0}$$ for all nodes. In this case, there would be same node embeddings for all nodes, and thus same predicted probability of the existence of $$e_{ij}$$. A convention to resolve this issue is to add Gaussian noise to $$h_{i}^{0}$$.
 
