@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 ## Zhen Wang
-I am currently a stuff of DAMO Academy. During the years of my Ph.D. (as a research intern at MSRA for more than three years), I have pursued the goal of embedding everything (entity, word, sentence, paragraph, etc.). In my experience as an engineer for Alibaba Cloud, I have been lucky to work with people from RISELab who kindly acknowledge my contributions and let me become a committer of Ray. I have a broad interest in machine learning. At the moment, our team focuses on federated learning and works on platforms, benchmarks, and research problems that are related to it.
+
+I am currently an associate professor at Sun Yat-sen University (SYSU). During the years of my Ph.D. (mainly as a research intern at MSRA for more than three years), I have pursued the goal of embedding everything (entity, word, sentence, paragraph, etc.). In my experience as an engineer for Alibaba Cloud, I have been lucky to work with people from RISELab who kindly acknowledge my contributions and let me become a committer of Ray. Before initiating my faculty career, I was a staff of DAMO Academy, with many kind leaders and colleagues.
+
+I have a broad interest in machine learning and data mining. Currently, our team focuses on utilizing HPC+AI to solve challenging scientific problems. If you are also interested in such a direction, don't hesitate to get in touch with me (**joneswong\[dot\]ml\[at\]gmail\[dot\]com**)!
 
 ### Education
 Sun Yat-sen University, Guangzhou, Guangdong, China
@@ -26,14 +29,18 @@ Microsoft Research Asia (MSRA), Beijing, China
     - Fact extraction from Web tables (demo)
     - Short text representation (product)
 
-Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou and Dr. Minlie Huang, Nov 2018 - present
+Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou and Dr. Minlie Huang, Nov 2018 - 2020
 
-- Reinforcement learning in E-commerce scenarios (ongoing)
+- Reinforcement learning in E-commerce scenarios
 
 
 ### Publications ([google scholar](https://scholar.google.com/citations?user=e5CqTBMAAAAJ&hl=en))
 
-- Yuxiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope: A Flexible Federated Learning Platform     for Heterogeneity.* VLDB 2023 Full Paper. [pdf](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)
+(<sup>\*</sup>Equal contribution.)
+
+- **Zhen Wang**<sup>\*</sup>, Weirui Kuang<sup>\*</sup>, Ce Zhang, Bolin Ding, Yaliang Li. *FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization.* ICML 2023 Full Paper.
+- Xu Chen, **Zhen Wang**, Shuncheng Liu, Yaliang Li, Kai Zeng, Bolin Ding, Jingren Zhou, Han Su, Kai Zheng. *BASE: Bridging the Gap between Cost and Latency for Query Optimization.* VLDB 2023 Full Paper.
+- Yuxiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope: A Flexible Federated Learning Platform for Heterogeneity.* VLDB 2023 Full Paper. [pdf](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)
 - Runlin Lei, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei. *EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks.* NeurIPS 2022 Full Paper. [pdf](https://openreview.net/pdf?id=SPoiDLr3WE7)
 - Jinjia Feng, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei, Hongteng Xu. *MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio.* CIKM 2022 Full Paper. [pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557395)
 - Yaliang Li, Bolin Ding, **Zhen Wang**, Yuexiang Xie, Dawei Gao, Liuyi Yao, Daoyuan Chen, Weirui Kuang, Hongzhu Shi, Jingren Zhou. *A Practical Introduction to Federated Learning.* KDD 2022 Tutorial ([website](https://joneswong.github.io/KDD22FLTutorial/))
@@ -55,8 +62,6 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 - **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph and Text Jointly Embedding*. EMNLP 2014 Full Paper. [pdf](https://aclanthology.org/D14-1167/)
 - **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph Embedding by Translating on Hyperplanes*. AAAI 2014 Full Paper. [pdf](https://dl.acm.org/doi/10.5555/2893873.2894046) [code](https://github.com/joneswong/TransH)
 
-(<sup>\*</sup>Equal contribution.)
-
 
 ### Awards & Scholarships
 
@@ -70,15 +75,21 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 ### Working Experience
 
+Sun Yat-sen University, Guangzhou, Guangdong, China
+
+- Associate Professor, May 2023 - present
+
+
 Alibaba Group, Hangzhou, Zhejiang, China
 
-- Senior Algorithm Expert (P8), Data Analytics and Intelligence Lab, Sept 2022 - present
+- Senior Algorithm Expert (P8), Data Analytics and Intelligence Lab, Sept 2022 - May 2023
+
+    - [FedHPO-Bench](https://github.com/alibaba/FederatedScope/tree/master/benchmark/FedHPOB): a federated HPO benchmark suite.
 
 - Algorithm Expert (P7), Data Analytics and Intelligence Lab, June 2020 - Aug 2022
 
     - [FederatedScope](https://github.com/alibaba/FederatedScope): a federated learning platform with an event-driven programming paradigm.
-    - FederatedScope-GNN: a federated graph learning package.
-    - [FedHPO-Bench](https://github.com/alibaba/FederatedScope/tree/master/benchmark/FedHPOB): a federated HPO benchmark suite.
+    - FederatedScope-GNN: a federated graph learning package and benchmark.
 
 - Algorithm Expert (P7), Deep Learning Algorithm Division, July 2019 - May 2020
 
