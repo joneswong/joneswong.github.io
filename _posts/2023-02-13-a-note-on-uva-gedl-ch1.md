@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Note on Chap1 of 'Group Equivariant Deep Learning'"
+title:  "A Note on Chap 1 of 'Group Equivariant Deep Learning'"
 date:   2023-02-12 20:24:02 -0700
 categories: daily
 ---
@@ -30,7 +30,7 @@ Two functions (a kernel and a signal) are transformed into another function (sig
 For $$k,f\in\mathbb{L}_{2}(X)$$,
 
 $$
-(k\ast f)(x)=\int_{X} k(\tilde{x}-x)f(\tilde{x})d\tilde{x}
+(k\star f)(x)=\int_{X} k(\tilde{x}-x)f(\tilde{x})d\tilde{x}
 $$
 
 For multi-channel signals, we just sum up the results of all channels in calculating convolution and cross-correlation.
