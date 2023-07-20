@@ -105,6 +105,6 @@ which is not commutative, and thus SE($$d$$) cannot be a vector space by regardi
 
 *How to interpret "group action is a group homomorphism"?*
 
-It is a mapping from $$G$$ to $${f_g | g\in G}$$, and the group product of $${f_g | g\in G}$$ is function composition, namely, $$\forall f_g, f_h, f_g \cdot f_h = f_g(f_{h}())$$. Then we need to prove $$f_{g\cdot h}=f_g \cdot f_h$$ (note that $$\cdot$$ at the LHS and RHS are that of respective group), which is correct by the definition of group action.
+It is a mapping from $$G$$ to $$\{f_g \| g\in G\}$$, and the group product of $$\{f_g \| g\in G\}$$ is function composition, namely, $$\forall f_g, f_h, f_g \cdot f_h = f_g(f_{h}())$$. Then we need to prove $$f_{g\cdot h}=f_g \cdot f_h$$ (note that $$\cdot$$ at the LHS and RHS are that of respective group), which is correct by the definition of group action.
 
 *What's the essential property that makes a group representation left-regular?*
