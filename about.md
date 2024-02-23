@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-## Zhen Wang
+## Zhen Wang (王桢)
 
 I am currently an associate professor at Sun Yat-sen University (SYSU). During the years of my Ph.D. (mainly as a research intern at MSRA for more than three years), I have pursued the goal of embedding everything (entity, word, sentence, paragraph, etc.). In my experience as an engineer for Alibaba Cloud, I have been lucky to work with people from RISELab who kindly acknowledge my contributions and let me become a committer of Ray. Before initiating my faculty career, I was a staff of DAMO Academy, with many kind leaders and colleagues.
 
@@ -38,7 +38,8 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 (<sup>\*</sup>Equal contribution.)
 
-- **Zhen Wang**<sup>\*</sup>, Weirui Kuang<sup>\*</sup>, Ce Zhang, Bolin Ding, Yaliang Li. *FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization.* ICML 2023 Full Paper.
+- **Zhen Wang**, Yaliang Li, Bolin Ding, Yule Li, Zhewei Wei. *Exploring Neural Scaling Law and Data Pruning Methods for Node Classification on Large-scale Graphs*. WWW 2024 Full Paper.
+- **Zhen Wang**<sup>\*</sup>, Weirui Kuang<sup>\*</sup>, Ce Zhang, Bolin Ding, Yaliang Li. *FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization.* ICML 2023 Full Paper. [pdf](https://proceedings.mlr.press/v202/wang23n.html)
 - Xu Chen, **Zhen Wang**, Shuncheng Liu, Yaliang Li, Kai Zeng, Bolin Ding, Jingren Zhou, Han Su, Kai Zheng. *BASE: Bridging the Gap between Cost and Latency for Query Optimization.* VLDB 2023 Full Paper.
 - Yuxiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope: A Flexible Federated Learning Platform for Heterogeneity.* VLDB 2023 Full Paper. [pdf](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)
 - Runlin Lei, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei. *EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks.* NeurIPS 2022 Full Paper. [pdf](https://openreview.net/pdf?id=SPoiDLr3WE7)
