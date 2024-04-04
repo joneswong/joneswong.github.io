@@ -38,7 +38,7 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 (<sup>\*</sup>Equal contribution.)
 
-- Weirui Kuang, **Zhen Wang**<sup>\*</sup>, Zhewei Wei, Yaliang Li, Bolin Ding. *When Transformer Meets Large Graphs: An Expressive and Efficient Two-View Architecture*. TKDE 2024 Full Paper.
+- Weirui Kuang<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Zhewei Wei, Yaliang Li, Bolin Ding. *When Transformer Meets Large Graphs: An Expressive and Efficient Two-View Architecture*. TKDE 2024 Full Paper.
 
 - **Zhen Wang**, Yaliang Li, Bolin Ding, Yule Li, Zhewei Wei. *Exploring Neural Scaling Law and Data Pruning Methods for Node Classification on Large-scale Graphs*. WWW 2024 Full Paper.
 - **Zhen Wang**<sup>\*</sup>, Weirui Kuang<sup>\*</sup>, Ce Zhang, Bolin Ding, Yaliang Li. *FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization.* ICML 2023 Full Paper. [pdf](https://proceedings.mlr.press/v202/wang23n.html)
