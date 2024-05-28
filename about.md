@@ -38,6 +38,8 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 (<sup>\*</sup>Equal contribution.)
 
+- Yuedong Yang, Jiahua Rao, Jiancong Xie, Qianmu Yuan, Deqin Liu, **Zhen Wang**, Yutong Lu, Shuangjia Zheng. *A Variational Expectation-Maximization Framework for Balanced Multi-scale Learning of Protein and Drug Interactions*. Nature Communications 2024 Full Paper.
+
 - Weirui Kuang<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Zhewei Wei, Yaliang Li, Bolin Ding. *When Transformer Meets Large Graphs: An Expressive and Efficient Two-View Architecture*. TKDE 2024 Full Paper.
 
 - **Zhen Wang**, Yaliang Li, Bolin Ding, Yule Li, Zhewei Wei. *Exploring Neural Scaling Law and Data Pruning Methods for Node Classification on Large-scale Graphs*. WWW 2024 Full Paper.
