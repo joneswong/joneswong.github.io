@@ -38,6 +38,7 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 (<sup>\*</sup>Equal contribution.)
 
+- Jinjia Feng, **Zhen Wang**, Zhewei Wei, Hongteng Xu, Yaliang Li and Bolin Ding. *Federated Heterogeneous Contrastive Distillation for Molecular Representation Learning*. CIKM 2024 Full Paper.
 - Yuedong Yang, Jiahua Rao, Jiancong Xie, Qianmu Yuan, Deqin Liu, **Zhen Wang**, Yutong Lu, Shuangjia Zheng. *A Variational Expectation-Maximization Framework for Balanced Multi-scale Learning of Protein and Drug Interactions*. Nature Communications 2024 Full Paper.
 
 - Weirui Kuang<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Zhewei Wei, Yaliang Li, Bolin Ding. *When Transformer Meets Large Graphs: An Expressive and Efficient Two-View Architecture*. TKDE 2024 Full Paper.
