@@ -38,35 +38,36 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 (<sup>\*</sup>Equal contribution.)
 
-- Jinjia Feng, **Zhen Wang**, Zhewei Wei, Hongteng Xu, Yaliang Li and Bolin Ding. *Federated Heterogeneous Contrastive Distillation for Molecular Representation Learning*. CIKM 2024 Full Paper.
-- Yuedong Yang, Jiahua Rao, Jiancong Xie, Qianmu Yuan, Deqin Liu, **Zhen Wang**, Yutong Lu, Shuangjia Zheng. *A Variational Expectation-Maximization Framework for Balanced Multi-scale Learning of Protein and Drug Interactions*. Nature Communications 2024 Full Paper.
-
-- Weirui Kuang<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Zhewei Wei, Yaliang Li, Bolin Ding. *When Transformer Meets Large Graphs: An Expressive and Efficient Two-View Architecture*. TKDE 2024 Full Paper.
-
-- **Zhen Wang**, Yaliang Li, Bolin Ding, Yule Li, Zhewei Wei. *Exploring Neural Scaling Law and Data Pruning Methods for Node Classification on Large-scale Graphs*. WWW 2024 Full Paper.
-- **Zhen Wang**<sup>\*</sup>, Weirui Kuang<sup>\*</sup>, Ce Zhang, Bolin Ding, Yaliang Li. *FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization.* ICML 2023 Full Paper. [pdf](https://proceedings.mlr.press/v202/wang23n.html)
-- Xu Chen, **Zhen Wang**, Shuncheng Liu, Yaliang Li, Kai Zeng, Bolin Ding, Jingren Zhou, Han Su, Kai Zheng. *BASE: Bridging the Gap between Cost and Latency for Query Optimization.* VLDB 2023 Full Paper.
-- Yuxiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope: A Flexible Federated Learning Platform for Heterogeneity.* VLDB 2023 Full Paper. [pdf](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)
-- Runlin Lei, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei. *EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks.* NeurIPS 2022 Full Paper. [pdf](https://openreview.net/pdf?id=SPoiDLr3WE7)
-- Jinjia Feng, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei, Hongteng Xu. *MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio.* CIKM 2022 Full Paper. [pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557395)
+- Liuyi Yao, **Zhen Wang**, Yuexiang Xie, Yaliang Li, Weirui Kuang, Daoyuan Chen, Bolin Ding. *Is Sharing Neighbor Generator in Federated Graph Learning Safe?*. TKDE 2024.
+- Pin Chen, Luoxuan Peng, Rui Jiao, Qing Mo, **Zhen Wang**, Wenbing Huang, Yang Liu, Yutong Lu. *Learning Superconductivity from Ordered and Disordered Material Structures.* NeurIPS 2024.
+- Tianchi Liao, Jialong Chen, Lele Fu, **zhen Wang**, Zibin Zheng, Chuan Chen. *A Swiss Army Knife for Heterogeneous Federated Learning: Flexible Coupling via Trace Norm.* NeurIPS 2024.
+- Jinjia Feng, **Zhen Wang**, Zhewei Wei, Hongteng Xu, Yaliang Li and Bolin Ding. *Federated Heterogeneous Contrastive Distillation for Molecular Representation Learning*. CIKM 2024.
+- Yuedong Yang, Jiahua Rao, Jiancong Xie, Qianmu Yuan, Deqin Liu, **Zhen Wang**, Yutong Lu, Shuangjia Zheng. *A Variational Expectation-Maximization Framework for Balanced Multi-scale Learning of Protein and Drug Interactions*. Nature Communications 2024.
+- Weirui Kuang<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Zhewei Wei, Yaliang Li, Bolin Ding. *When Transformer Meets Large Graphs: An Expressive and Efficient Two-View Architecture*. TKDE 2024.
+- **Zhen Wang**, Yaliang Li, Bolin Ding, Yule Li, Zhewei Wei. *Exploring Neural Scaling Law and Data Pruning Methods for Node Classification on Large-scale Graphs*. WWW 2024.
+- **Zhen Wang**<sup>\*</sup>, Weirui Kuang<sup>\*</sup>, Ce Zhang, Bolin Ding, Yaliang Li. *FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization.* ICML 2023. [pdf](https://proceedings.mlr.press/v202/wang23n.html)
+- Xu Chen, **Zhen Wang**, Shuncheng Liu, Yaliang Li, Kai Zeng, Bolin Ding, Jingren Zhou, Han Su, Kai Zheng. *BASE: Bridging the Gap between Cost and Latency for Query Optimization.* VLDB 2023.
+- Yuxiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope: A Flexible Federated Learning Platform for Heterogeneity.* VLDB 2023. [pdf](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)
+- Runlin Lei, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei. *EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks.* NeurIPS 2022. [pdf](https://openreview.net/pdf?id=SPoiDLr3WE7)
+- Jinjia Feng, **Zhen Wang**, Yaliang Li, Bolin Ding, Zhewei Wei, Hongteng Xu. *MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio.* CIKM 2022. [pdf](https://dl.acm.org/doi/abs/10.1145/3511808.3557395)
 - Yaliang Li, Bolin Ding, **Zhen Wang**, Yuexiang Xie, Dawei Gao, Liuyi Yao, Daoyuan Chen, Weirui Kuang, Hongzhu Shi, Jingren Zhou. *A Practical Introduction to Federated Learning.* KDD 2022 Tutorial ([website](https://joneswong.github.io/KDD22FLTutorial/))
-- **Zhen Wang**, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning*. KDD 2022 Full Paper. **(ADS Track Best Paper Award)**. [pdf](https://dl.acm.org/doi/10.1145/3534678.3539112)
-- **Zhen Wang**, Yaliang Li, Zhewei Wei, Weirui Kuang, Bolin Ding. *Graph Neural Networks with Node-wise Architecture*. KDD 2022 Full Paper. [pdf](https://dl.acm.org/doi/10.1145/3534678.3539387) [code](https://github.com/joneswong/NWGNN)
-- Dawei Gao, Yuexiang Xie, Zimu Zhou, **Zhen Wang**, Yaliang Li, Bolin Ding. *Finding Meta Winning Ticket to Train Your MAML*. KDD 2022 Full Paper. [pdf](https://dl.acm.org/doi/10.1145/3534678.3539467)
-- Yuexiang Xie, **Zhen Wang**, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. *iFlood: A Stable and Effective Regularizer*. ICLR 2022 Full Paper. [pdf](https://openreview.net/forum?id=MsHnJPaBUZE)
-- Shaoyun Shi, Yuexiang Xie, **Zhen Wang**, Bolin Ding, Yaliang Li, Min Zhang. *Explainable Neural Rule Learning*. WWW 2022 Full Paper. [pdf](https://dl.acm.org/doi/abs/10.1145/3485447.3512023)
-- Yiqing Xie, **Zhen Wang**, Carl Yang, Yaliang Li, Bolin Ding, Hongbo Deng, Jiawei Han. *KoMen: Domain Knowledge Guided Interaction Recommendation for Emerging Scenarios*. WWW 2022 Full Paper. [pdf](https://dl.acm.org/doi/10.1145/3485447.3512177) [code](https://github.com/Veronicium/taskEmbedding)
+- **Zhen Wang**, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning*. KDD 2022. **(ADS Track Best Paper Award)**. [pdf](https://dl.acm.org/doi/10.1145/3534678.3539112)
+- **Zhen Wang**, Yaliang Li, Zhewei Wei, Weirui Kuang, Bolin Ding. *Graph Neural Networks with Node-wise Architecture*. KDD 2022. [pdf](https://dl.acm.org/doi/10.1145/3534678.3539387) [code](https://github.com/joneswong/NWGNN)
+- Dawei Gao, Yuexiang Xie, Zimu Zhou, **Zhen Wang**, Yaliang Li, Bolin Ding. *Finding Meta Winning Ticket to Train Your MAML*. KDD 2022. [pdf](https://dl.acm.org/doi/10.1145/3534678.3539467)
+- Yuexiang Xie, **Zhen Wang**, Yaliang Li, Ce Zhang, Jingren Zhou, Bolin Ding. *iFlood: A Stable and Effective Regularizer*. ICLR 2022. [pdf](https://openreview.net/forum?id=MsHnJPaBUZE)
+- Shaoyun Shi, Yuexiang Xie, **Zhen Wang**, Bolin Ding, Yaliang Li, Min Zhang. *Explainable Neural Rule Learning*. WWW 2022. [pdf](https://dl.acm.org/doi/abs/10.1145/3485447.3512023)
+- Yiqing Xie, **Zhen Wang**, Carl Yang, Yaliang Li, Bolin Ding, Hongbo Deng, Jiawei Han. *KoMen: Domain Knowledge Guided Interaction Recommendation for Emerging Scenarios*. WWW 2022. [pdf](https://dl.acm.org/doi/10.1145/3485447.3512177) [code](https://github.com/Veronicium/taskEmbedding)
 - Yaliang Li, **Zhen Wang**, Yuexiang Xie, Bolin Ding, Ce Zhang, Kai Zeng, Rong Zhu. *AutoML: From Methodology to Application.* CIKM 2021 Tutorial ([website](https://joneswong.github.io/CIKM21AutoMLTutorial/)).
 - Yaliang Li, **Zhen Wang**, Yuexiang Xie, Bolin Ding, Ce Zhang. *AutoML: A Perspective where Industry Meets Academy.* KDD 2021 Tutorial ([website](https://joneswong.github.io/KDD21AutoMLTutorial/)).
-- Yuexiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. *FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data*. KDD 2021 Full Paper. [pdf](https://dl.acm.org/doi/10.1145/3447548.3467066)
+- Yuexiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Yaliang, Li, Bolin Ding, Nezihe Merve Gürel, Ce Zhang, Minlie Huang, Wei Lin, Jingren Zhou. *FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data*. KDD 2021. [pdf](https://dl.acm.org/doi/10.1145/3447548.3467066)
 - Zhao Li, Junshuai Song, Zehong Hu, **Zhen Wang**, Jun Gao. *Constrained Dual-level Bandit for Personalized Impression Regulation in Online Ranking Systems*. TKDD 2021. [pdf](https://dl.acm.org/doi/10.1145/3461340)
-- Daoyuan Chen, Yaliang Li, Minghui Qiu, **Zhen Wang**, Bofang Li, Bolin Ding, Hongbo Deng, Jun Huang, Wei Lin, and Jingren Zhou. *AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search*. IJCAI 2020 Full Paper. [pdf](https://dl.acm.org/doi/10.5555/3491440.3491781)
+- Daoyuan Chen, Yaliang Li, Minghui Qiu, **Zhen Wang**, Bofang Li, Bolin Ding, Hongbo Deng, Jun Huang, Wei Lin, and Jingren Zhou. *AdaBERT: Task-Adaptive BERT Compression with Differentiable Neural Architecture Search*. IJCAI 2020. [pdf](https://dl.acm.org/doi/10.5555/3491440.3491781)
 - Fei Xiao, **Zhen Wang**, Haikuan Huang, Jun Huang, Xi Chen, Hongbo Deng, Minghui Qiu. *AliISA: Creating an Interactive Search Experience in E-commerce Platforms.* SIGIR 2019 Demo. [pdf](https://dl.acm.org/doi/10.1145/3331184.3331409)
-- Zehong Hu, **Zhen Wang**, Zhao Li, Shichang Hu, Shasha Ruan, Jie Zhang. *Fraud Regulating Policy for E-Commerce via Constrained Contextual Bandits*. AAMAS 2019 Full Paper. [pdf](https://dl.acm.org/doi/10.5555/3306127.3331846)
+- Zehong Hu, **Zhen Wang**, Zhao Li, Shichang Hu, Shasha Ruan, Jie Zhang. *Fraud Regulating Policy for E-Commerce via Constrained Contextual Bandits*. AAMAS 2019. [pdf](https://dl.acm.org/doi/10.5555/3306127.3331846)
 - **Zhen Wang**, Xu Hu, Zehong Hu, Minghui Qiu, Jun Huang. Chapter 5 of *Artificial Intelligence for Prosthetics-challenge solutions.* NurIPS 2018 RL Challenge Tech Report. [pdf](https://arxiv.org/abs/1902.02441)
 - Huaping Zhong, Jianwen Zhang, **Zhen Wang**, Hai Wan, Zheng Chen. *Aligning Knowledge and Text Embeddings by Entity Descriptions*. EMNLP 2015 Short Paper. [pdf](https://aclanthology.org/D15-1031/)
-- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph and Text Jointly Embedding*. EMNLP 2014 Full Paper. [pdf](https://aclanthology.org/D14-1167/)
-- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph Embedding by Translating on Hyperplanes*. AAAI 2014 Full Paper. [pdf](https://dl.acm.org/doi/10.5555/2893873.2894046) [code](https://github.com/joneswong/TransH)
+- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph and Text Jointly Embedding*. EMNLP 2014. [pdf](https://aclanthology.org/D14-1167/)
+- **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph Embedding by Translating on Hyperplanes*. AAAI 2014. [pdf](https://dl.acm.org/doi/10.5555/2893873.2894046) [code](https://github.com/joneswong/TransH)
 
 
 ### Awards & Scholarships
