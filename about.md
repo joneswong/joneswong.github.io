@@ -38,6 +38,7 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 (<sup>\*</sup>Equal contribution.)
 
+- Anjie Qiao<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Jiahua Rao, Yuedong Yang, Zhewei Wei. *Advancing Retrosynthesis with Retrieval-Augmented Graph Generation*. AAAI 2025.
 - Liuyi Yao, **Zhen Wang**, Yuexiang Xie, Yaliang Li, Weirui Kuang, Daoyuan Chen, Bolin Ding. *Is Sharing Neighbor Generator in Federated Graph Learning Safe?*. TKDE 2024.
 - Pin Chen, Luoxuan Peng, Rui Jiao, Qing Mo, **Zhen Wang**, Wenbing Huang, Yang Liu, Yutong Lu. *Learning Superconductivity from Ordered and Disordered Material Structures.* NeurIPS 2024.
 - Tianchi Liao, Jialong Chen, Lele Fu, **zhen Wang**, Zibin Zheng, Chuan Chen. *A Swiss Army Knife for Heterogeneous Federated Learning: Flexible Coupling via Trace Norm.* NeurIPS 2024.
