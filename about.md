@@ -38,10 +38,11 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 (<sup>\*</sup>Equal contribution.)
 
+- Jialong Chen, Bowen Deng, **Zhen Wang**, Chuan Chen, Zibin Zheng. *Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective*. ICLR 2025.
 - Anjie Qiao<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Jiahua Rao, Yuedong Yang, Zhewei Wei. *Advancing Retrosynthesis with Retrieval-Augmented Graph Generation*. AAAI 2025.
 - Liuyi Yao, **Zhen Wang**, Yuexiang Xie, Yaliang Li, Weirui Kuang, Daoyuan Chen, Bolin Ding. *Is Sharing Neighbor Generator in Federated Graph Learning Safe?*. TKDE 2024.
 - Pin Chen, Luoxuan Peng, Rui Jiao, Qing Mo, **Zhen Wang**, Wenbing Huang, Yang Liu, Yutong Lu. *Learning Superconductivity from Ordered and Disordered Material Structures.* NeurIPS 2024.
-- Tianchi Liao, Jialong Chen, Lele Fu, **zhen Wang**, Zibin Zheng, Chuan Chen. *A Swiss Army Knife for Heterogeneous Federated Learning: Flexible Coupling via Trace Norm.* NeurIPS 2024.
+- Tianchi Liao, Jialong Chen, Lele Fu, **Zhen Wang**, Zibin Zheng, Chuan Chen. *A Swiss Army Knife for Heterogeneous Federated Learning: Flexible Coupling via Trace Norm.* NeurIPS 2024.
 - Jinjia Feng, **Zhen Wang**, Zhewei Wei, Hongteng Xu, Yaliang Li and Bolin Ding. *Federated Heterogeneous Contrastive Distillation for Molecular Representation Learning*. CIKM 2024.
 - Yuedong Yang, Jiahua Rao, Jiancong Xie, Qianmu Yuan, Deqin Liu, **Zhen Wang**, Yutong Lu, Shuangjia Zheng. *A Variational Expectation-Maximization Framework for Balanced Multi-scale Learning of Protein and Drug Interactions*. Nature Communications 2024.
 - Weirui Kuang<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Zhewei Wei, Yaliang Li, Bolin Ding. *When Transformer Meets Large Graphs: An Expressive and Efficient Two-View Architecture*. TKDE 2024.
