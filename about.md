@@ -1,21 +1,20 @@
 ---
 layout: page
-title: About
+title: Zhen Wang (王桢) 
 permalink: /about/
 ---
-## Zhen Wang (王桢)
 
-I am currently an associate professor at Sun Yat-sen University (SYSU). During the years of my Ph.D. (mainly as a research intern at MSRA for more than three years), I have pursued the goal of embedding everything (entity, word, sentence, paragraph, etc.). In my experience as an engineer for Alibaba Cloud, I have been lucky to work with people from RISELab who kindly acknowledge my contributions and let me become a committer of Ray. Before initiating my faculty career, I was a staff of DAMO Academy, with many kind leaders and colleagues.
+I am currently an associate professor at Sun Yat-sen University (SYSU). During the years of my Ph.D. (mainly as a research intern at MSRA for more than three years), I have pursued the goal of embedding everything (entity, word, sentence, paragraph, etc.). In my experience as an engineer for Alibaba Cloud, I have been lucky to work with people from RISELab who kindly acknowledge my contributions and let me become a committer of [Ray](https://github.com/ray-project). Before initiating my academic career, I was a staff of DAMO Academy, building federated learning platform [FederatedScope](https://github.com/alibaba/FederatedScope ) with my kind leaders and colleagues.
 
-I have a broad interest in machine learning and data mining. Currently, our team focuses on utilizing HPC+AI to solve challenging scientific problems. If you are also interested in such a direction, don't hesitate to get in touch with me (**joneswong\[dot\]ml\[at\]gmail\[dot\]com**)!
+I have a broad interest in machine learning and data mining. Currently, our team focuses on utilizing HPC+AI to solve challenging scientific problems (e.g., controllable molecular graph generation and multi-modal scientific data representation). If you are also interested in such a direction, don't hesitate to get in touch with me (**joneswong\[dot\]ml\[at\]gmail\[dot\]com**)!
 
-### Education
+## Education
 Sun Yat-sen University, Guangzhou, Guangdong, China
 
 - Ph.D., Computer Applied Technology, Sep 2012 - Jun 2017
 - B.E., Software Engineering, Sep 2008 - Jun 2012
 
-### Research Experience
+## Research Experience
 Microsoft Research Asia (MSRA), Beijing, China
 
 - Research Intern, Data Mining and Enterprise Intelligence Group, Mentor: Dr. Jun Yan and Dr. Wei-Ying Ma, Feb 2016 – Apr 2017
@@ -34,19 +33,19 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 - Reinforcement learning in E-commerce scenarios
 
 
-### Publications ([google scholar](https://scholar.google.com/citations?user=e5CqTBMAAAAJ&hl=en))
+## Publications ([google scholar](https://scholar.google.com/citations?user=e5CqTBMAAAAJ&hl=en) and [DBLP](https://dblp.org/pid/78/6727-36.html))
 
 (<sup>\*</sup>Equal contribution.)
 
-- Jialong Chen, Bowen Deng, **Zhen Wang**, Chuan Chen, Zibin Zheng. *Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective*. ICLR 2025.
-- Anjie Qiao<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Jiahua Rao, Yuedong Yang, Zhewei Wei. *Advancing Retrosynthesis with Retrieval-Augmented Graph Generation*. AAAI 2025.
-- Liuyi Yao, **Zhen Wang**, Yuexiang Xie, Yaliang Li, Weirui Kuang, Daoyuan Chen, Bolin Ding. *Is Sharing Neighbor Generator in Federated Graph Learning Safe?*. TKDE 2024.
-- Pin Chen, Luoxuan Peng, Rui Jiao, Qing Mo, **Zhen Wang**, Wenbing Huang, Yang Liu, Yutong Lu. *Learning Superconductivity from Ordered and Disordered Material Structures.* NeurIPS 2024.
-- Tianchi Liao, Jialong Chen, Lele Fu, **Zhen Wang**, Zibin Zheng, Chuan Chen. *A Swiss Army Knife for Heterogeneous Federated Learning: Flexible Coupling via Trace Norm.* NeurIPS 2024.
-- Jinjia Feng, **Zhen Wang**, Zhewei Wei, Hongteng Xu, Yaliang Li and Bolin Ding. *Federated Heterogeneous Contrastive Distillation for Molecular Representation Learning*. CIKM 2024.
-- Yuedong Yang, Jiahua Rao, Jiancong Xie, Qianmu Yuan, Deqin Liu, **Zhen Wang**, Yutong Lu, Shuangjia Zheng. *A Variational Expectation-Maximization Framework for Balanced Multi-scale Learning of Protein and Drug Interactions*. Nature Communications 2024.
-- Weirui Kuang<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Zhewei Wei, Yaliang Li, Bolin Ding. *When Transformer Meets Large Graphs: An Expressive and Efficient Two-View Architecture*. TKDE 2024.
-- **Zhen Wang**, Yaliang Li, Bolin Ding, Yule Li, Zhewei Wei. *Exploring Neural Scaling Law and Data Pruning Methods for Node Classification on Large-scale Graphs*. WWW 2024.
+- Jialong Chen, Bowen Deng, **Zhen Wang**, Chuan Chen, Zibin Zheng. *Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective*. ICLR 2025. [pdf](https://openreview.net/forum?id=7b2JrzdLhA)
+- Anjie Qiao<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Jiahua Rao, Yuedong Yang, Zhewei Wei. *Advancing Retrosynthesis with Retrieval-Augmented Graph Generation*. AAAI 2025. [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/34203) [code](https://github.com/anjie-qiao/RARB)
+- Liuyi Yao, **Zhen Wang**, Yuexiang Xie, Yaliang Li, Weirui Kuang, Daoyuan Chen, Bolin Ding. *Is Sharing Neighbor Generator in Federated Graph Learning Safe?*. TKDE 2024. [pdf](https://dl.acm.org/doi/10.1109/TKDE.2024.3482448)
+- Pin Chen, Luoxuan Peng, Rui Jiao, Qing Mo, **Zhen Wang**, Wenbing Huang, Yang Liu, Yutong Lu. *Learning Superconductivity from Ordered and Disordered Material Structures.* NeurIPS 2024. [pdf](https://neurips.cc/virtual/2024/poster/97553)
+- Tianchi Liao, Jialong Chen, Lele Fu, **Zhen Wang**, Zibin Zheng, Chuan Chen. *A Swiss Army Knife for Heterogeneous Federated Learning: Flexible Coupling via Trace Norm.* NeurIPS 2024. [pdf](https://proceedings.neurips.cc/paper_files/paper/2024/hash/fce1243cf0efe675d670745d902d7b4c-Abstract-Conference.html)
+- Jinjia Feng, **Zhen Wang**, Zhewei Wei, Hongteng Xu, Yaliang Li and Bolin Ding. *Federated Heterogeneous Contrastive Distillation for Molecular Representation Learning*. CIKM 2024. [pdf](https://dl.acm.org/doi/10.1145/3627673.3679725)
+- Yuedong Yang, Jiahua Rao, Jiancong Xie, Qianmu Yuan, Deqin Liu, **Zhen Wang**, Yutong Lu, Shuangjia Zheng. *A Variational Expectation-Maximization Framework for Balanced Multi-scale Learning of Protein and Drug Interactions*. Nature Communications 2024. [pdf](https://www.nature.com/articles/s41467-024-48801-4)
+- Weirui Kuang<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Zhewei Wei, Yaliang Li, Bolin Ding. *When Transformer Meets Large Graphs: An Expressive and Efficient Two-View Architecture*. TKDE 2024. [pdf](https://ieeexplore.ieee.org/document/10479175)
+- **Zhen Wang**, Yaliang Li, Bolin Ding, Yule Li, Zhewei Wei. *Exploring Neural Scaling Law and Data Pruning Methods for Node Classification on Large-scale Graphs*. WWW 2024. [pdf](https://dl.acm.org/doi/10.1145/3589334.3645571) [code](https://github.com/joneswong/GNSL)
 - **Zhen Wang**<sup>\*</sup>, Weirui Kuang<sup>\*</sup>, Ce Zhang, Bolin Ding, Yaliang Li. *FedHPO-Bench: A Benchmark Suite for Federated Hyperparameter Optimization.* ICML 2023. [pdf](https://proceedings.mlr.press/v202/wang23n.html)
 - Xu Chen, **Zhen Wang**, Shuncheng Liu, Yaliang Li, Kai Zeng, Bolin Ding, Jingren Zhou, Han Su, Kai Zheng. *BASE: Bridging the Gap between Cost and Latency for Query Optimization.* VLDB 2023.
 - Yuxiang Xie<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Dawei Gao, Daoyuan Chen, Liuyi Yao, Weirui Kuang, Yaliang Li, Bolin Ding, Jingren Zhou. *FederatedScope: A Flexible Federated Learning Platform for Heterogeneity.* VLDB 2023. [pdf](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)
@@ -72,8 +71,9 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 - **Zhen Wang**, Jianwen Zhang, Jianlin Feng, Zheng Chen. *Knowledge Graph Embedding by Translating on Hyperplanes*. AAAI 2014. [pdf](https://dl.acm.org/doi/10.5555/2893873.2894046) [code](https://github.com/joneswong/TransH)
 
 
-### Awards & Scholarships
+## Awards & Scholarships
 
+- First-Class Award in the 2024 Science and Technology Awards by the Chinese Institute of Electronics
 - **KDD 2022 ADS Track Best Paper Award**, Aug 2022
 - KDD Cup, AutoML Track, 4/149, May 2020 ([our solution](https://github.com/joneswong/AutoGraph))
 - NeurIPS RL Challenge 5/427, Nov 2018 ([our solution](https://github.com/joneswong/rl_stadium))
@@ -82,7 +82,7 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 - National Scholarship, Sep 2009
 
 
-### Working Experience
+## Working Experience
 
 Sun Yat-sen University, Guangzhou, Guangdong, China
 
@@ -113,10 +113,3 @@ Alibaba Group, Hangzhou, Zhejiang, China
     - [Ray](https://github.com/ray-project/ray): I contribute the implementations of several RL algorithms, e.g., DDPG, Rainbow, and MARWIL, to Ray RLLib and become a **committer**
     - Fraud regularization and flow control: constrained contextual bandit
     - Interactive shopping assistant: hierarchical reinforcement learning
-
-
-### Skills
-
-- Programming languages: Python
-- Machine leanring libraries: TensorFlow, PyTorch
-- Foreign language: English (CET-6 certification)
