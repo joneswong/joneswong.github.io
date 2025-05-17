@@ -37,6 +37,7 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 (<sup>\*</sup>Equal contribution.)
 
+- Jiahua Rao, Hanjing Lin, Jiancong Xie, **Zhen Wang**, Shuangjia Zheng, Yuedong Yang. *Incorporating Retrieval-based Causal Learning with Information Bottlenecks for Interpretable Molecular Graph Learning*. KDD 2025.
 - Jialong Chen, Bowen Deng, **Zhen Wang**, Chuan Chen, Zibin Zheng. *Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective*. ICLR 2025. [pdf](https://openreview.net/forum?id=7b2JrzdLhA)
 - Anjie Qiao<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Jiahua Rao, Yuedong Yang, Zhewei Wei. *Advancing Retrosynthesis with Retrieval-Augmented Graph Generation*. AAAI 2025. [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/34203) [code](https://github.com/anjie-qiao/RARB)
 - Liuyi Yao, **Zhen Wang**, Yuexiang Xie, Yaliang Li, Weirui Kuang, Daoyuan Chen, Bolin Ding. *Is Sharing Neighbor Generator in Federated Graph Learning Safe?*. TKDE 2024. [pdf](https://dl.acm.org/doi/10.1109/TKDE.2024.3482448)
