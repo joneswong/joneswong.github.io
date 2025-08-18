@@ -37,6 +37,7 @@ Alibaba group and Tsinghua University joint post-doc, Advisor: Dr. Jingren Zhou 
 
 (<sup>\*</sup>Equal contribution.)
 
+- Anjie Qiao, Yuting Chen, Junjie Xie, Weifeng Huang, Hao Zhang, Qirui Deng, Jiahua Rao, Ji Deng, Fanbo Meng, **Zhen Wang**, Mingyuan Xu, Hongming Chen, Jiancong Xie, Shuangjia Zheng, Yuedong Yang, Guo-Bo Li, Jinping Lei. *A 3D pocket-aware lead optimization model with knowledge guidance and its application for discovery of new glutaminyl cyclase inhibitors*. Briefings in Bioinformatics 2025. [pdf](https://academic.oup.com/bib/article/26/4/bbaf345/8203558)
 - Jiahua Rao, Hanjing Lin, Jiancong Xie, **Zhen Wang**, Shuangjia Zheng, Yuedong Yang. *Incorporating Retrieval-based Causal Learning with Information Bottlenecks for Interpretable Molecular Graph Learning*. KDD 2025.
 - Jialong Chen, Bowen Deng, **Zhen Wang**, Chuan Chen, Zibin Zheng. *Graph Neural Ricci Flow: Evolving Feature from a Curvature Perspective*. ICLR 2025. [pdf](https://openreview.net/forum?id=7b2JrzdLhA)
 - Anjie Qiao<sup>\*</sup>, **Zhen Wang**<sup>\*</sup>, Jiahua Rao, Yuedong Yang, Zhewei Wei. *Advancing Retrosynthesis with Retrieval-Augmented Graph Generation*. AAAI 2025. [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/34203) [code](https://github.com/anjie-qiao/RARB)
