@@ -1,1 +1,4 @@
-Sitemap: https://joneswong.github.io/sitemap.xml
+User-agent: *
+Disallow:
+
+Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
